@@ -1,0 +1,8 @@
+/node_modules
+/logs
+package-lock.json
+/hardhat.config.js
+/artifacts
+/cache
+.env
+
